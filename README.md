@@ -1,6 +1,6 @@
-# Article Website
+# Online Shop Website
 
-This is an online shop website that utilize html for its foundational structure. This website was made to display item listings of various products with different categoties to choose from.
+[Pet Store](https://dhananugraha.github.io/Revou-Module-1-Assignment/) is an online shop website that utilize html for its foundational structure. This website was made to display item listings of various products with different categoties to choose from.
 
 ## Table of Contents
 
@@ -67,3 +67,4 @@ This is an online shop website that utilize html for its foundational structure.
     git push origin feature-name
     ```
 5. Create a pull request.
+

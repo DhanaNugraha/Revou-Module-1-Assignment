@@ -118,28 +118,28 @@ nav #nav-toys {
     text-decoration: none;
     color: white;
     grid-column: 2/3;
-    border-top: 1px solid;
+    border-bottom: 1px solid;
 }
 
 nav #nav-hygiene {
     text-decoration: none;
     color: white;
     grid-column: 3/4;
-    border-top: 1px solid;
+    border-bottom: 1px solid;
 }
 
 nav #nav-food {
     text-decoration: none;
     color: white;
     grid-column: 4/5;
-    border-top: 1px solid;
+    border-bottom: 1px solid;
 }
 
 nav #nav-costumes {
     text-decoration: none;
     color: white;
     grid-column: 5/6;
-    border-top: 1px solid;
+    border-bottom: 1px solid;
 }
 
 

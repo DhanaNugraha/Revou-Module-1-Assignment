@@ -150,6 +150,7 @@ main{
     padding-left: 3vh;
     padding-right: 3vh;
     grid-area: main;
+    margin-bottom: 3vh;
 }
 
 section img {
@@ -201,20 +202,28 @@ section img {
 }
 
 
-
 footer {
+    position: relative;
     display: flex;
+    flex-direction: column;
     border-style: solid;
     border-width: 1px;
     border-color: rgb(207, 207, 207);
     grid-area: footer;
     justify-content: space-between;
+    align-items: center;
+    background-color: rgb(32, 30, 56);
+    color: white
 }
 
 #help {
     display: flex;
     align-items: center;
     flex-direction: column;
+}
+
+#follow {
+    text-align: center;
 }
 
 /* Extra small devices (phones, 600px and down) */
@@ -297,12 +306,6 @@ footer {
     footer{
         display: flex;
         flex-direction: column;
-    }
-}
-
-@media screen and (max-width: 600px) {
-    #footer-pet{
-        display: none;
     }
 }
 

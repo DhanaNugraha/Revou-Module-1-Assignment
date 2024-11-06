@@ -14,7 +14,6 @@
 - Header section with the shop name and banner
 - Sticky navigation bar 
 - Main shop section with added effects when items are hovered.
-- 
 - Social media section with an interactive figure.
 - Short form with required fields.
 - Responsive design, website interface are able to be function normally in different device sizes.
